@@ -15,10 +15,7 @@
 	background: url('images/stack-icon.png') no-repeat center center;
 	width: 200px;
 	height: 200px;
-	-webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+ background-size: cover;
   margin-right: 1em;
   border-radius: 5px;
 }
@@ -43,4 +40,9 @@
 .error {
 	background-color: #F78181;
 	padding: 1em;
+}
+
+.answerer {
+	font-weight: bold;
+	margin-bottom: 10px;
 }
